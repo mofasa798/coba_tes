@@ -1,0 +1,10 @@
+RENCANAN KEDEPAN UNTUK SKRIPSI
+- PELAJARI ESP32-CAM 
+  a. dasar esp dan koneksi jaringan pada arduino
+  b. mengukur kemampuan esp
+- PELAJARI DATABASE (MYSQL)
+  a. memahami kembali database
+  b. melakukan koneksi dengan perangkat-api-phone
+- PELAJARI API (LARAVEL)
+  a. memahami api sebagai jembatan penghubung
+  b. mengukur kemaampuan
