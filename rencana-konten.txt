@@ -8,3 +8,5 @@ RENCANAN KEDEPAN UNTUK SKRIPSI
 - PELAJARI API (LARAVEL)
   a. memahami api sebagai jembatan penghubung
   b. mengukur kemaampuan
+- MEMPERBAIKI PAPER
+  a. penulisan dan penggunaan 
